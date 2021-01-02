@@ -4,6 +4,7 @@ const campsiteRouter = require('./routes/campsiteRouter');
 const promotionRouter = require('./routes/promotionRouter');
 const partnerRouter = require('./routes/partnerRouter');
 
+
 const hostname = 'localhost';
 const port = 3000;
 
